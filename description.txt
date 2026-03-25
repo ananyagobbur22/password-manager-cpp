@@ -1,0 +1,14 @@
+Project: CLI Based Password Manager in C++
+
+Author: Ananya Gobbur 
+
+Description: This project is a command-line based password manager developed using C++.
+It allows users to store, view, search, and delete credentials securely.
+
+The application uses:
+
+Object-Oriented Programming for structure
+File handling to store data persistently
+Basic encryption to protect passwords
+
+A master password authentication is implemented to restrict access, and data is stored in a structured format for easy retrieval.
